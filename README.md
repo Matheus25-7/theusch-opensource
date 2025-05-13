@@ -93,3 +93,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+
+## Sobre Mim
+Sou uma pessoa estudiosa, sempre em busca de novas oportunidades. Nos momentos de lazer, gosto de me dedicar ao meu hobby de fotografar e filmar trens e ônibus. Aprecio muito os momentos com a minha família reunida.
